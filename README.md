@@ -1,6 +1,25 @@
 # Linux Commands Cheatsheet
 
 This repository contains a comprehensive cheatsheet for Linux commands, organized by categories for easy reference. Whether you're a beginner or an experienced user, this cheatsheet will help you quickly find the commands you need for various tasks.
+## Table of Contents
+
+- [File System Navigation](#file-system-navigation)
+- [File Operations](#file-operations)
+- [File Content](#file-content)
+- [File Permissions](#file-permissions)
+- [Process Management](#process-management)
+- [System Information](#system-information)
+- [Package Management](#package-management)
+  - [Debian/Ubuntu (APT)](#debianubuntu-apt)
+  - [Red Hat/Fedora (DNF/YUM)](#red-hatfedora-dnf-yum)
+  - [Arch Linux (Pacman)](#arch-linux-pacman)
+- [Network Commands](#network-commands)
+- [Text Processing](#text-processing)
+- [Compression and Archiving](#compression-and-archiving)
+- [User Management](#user-management)
+- [Special Operators](#special-operators)
+- [System Control](#system-control)
+- [Shell Scripting Basics](#shell-scripting-basics)
 
 ## Categories
 
