@@ -253,3 +253,29 @@ This repository contains a comprehensive cheatsheet for Linux commands, organize
 | `$variable`        | Variable reference           | `echo $HOME` → Display HOME variable value                |
 | `$()`              | Command substitution         | `echo "Date: $(date)"` → Include command output in string |
 | `$(())`            | Arithmetic expansion         | `echo $((5+3))` → Perform arithmetic                      |
+
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or additional commands that you think should be included in this cheatsheet, please feel free to submit a pull request or open an issue on GitHub.
+
+To contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Acknowledgments
+
+- [Linux Documentation Project](http://www.tldp.org/)
+- [Linux Command](https://linuxcommand.org/)
+- [SS64](https://ss64.com/bash/)
+- [TLDP Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
+
+Thank you to all the contributors and the open-source community for their valuable resources and support.
