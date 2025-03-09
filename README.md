@@ -202,10 +202,10 @@ This repository contains a comprehensive cheatsheet for Linux commands, organize
 | `>`      | Redirect output   | `command > file.txt` → Save output to file.txt                      |
 | `>>`     | Append output     | `command >> file.txt` → Append output to file.txt                   |
 | `<`      | Input redirection | `command < file.txt` → Use file.txt as input                        |
-| `|`      | Pipe output       | `command1 | command2` → Use output of command1 as input to command2 |
+| `\|`      | Pipe output       | `command1 \| command2` → Use output of command1 as input to command2 |
 | `&`      | Run in background | `command &` → Run command in the background                         |
 | `&&`     | Logical AND       | `command1 && command2` → Run command2 if command1 succeeds          |
-| `||`     | Logical OR        | `command1 || command2` → Run command2 if command1 fails             |
+| `\|\|`     | Logical OR        | `command1 \|\| command2` → Run command2 if command1 fails             |
 | `;`      | Command separator | `command1 ; command2` → Run command2 after command1                 |
 
 ## System Control
