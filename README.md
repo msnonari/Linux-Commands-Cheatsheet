@@ -1,42 +1,22 @@
 # Linux Commands Cheatsheet
 
 This repository contains a comprehensive cheatsheet for Linux commands, organized by categories for easy reference. Whether you're a beginner or an experienced user, this cheatsheet will help you quickly find the commands you need for various tasks.
-## Table of Contents
+## Table of Contents | Categories
 
-- [File System Navigation](#file-system-navigation)
-- [File Operations](#file-operations)
-- [File Content](#file-content)
-- [File Permissions](#file-permissions)
-- [Process Management](#process-management)
-- [System Information](#system-information)
-- [Package Management](#package-management)
-  - [Debian/Ubuntu (APT)](#debianubuntu-apt)
-  - [Red Hat/Fedora (DNF/YUM)](#red-hatfedora-dnf-yum)
-  - [Arch Linux (Pacman)](#arch-linux-pacman)
-- [Network Commands](#network-commands)
-- [Text Processing](#text-processing)
-- [Compression and Archiving](#compression-and-archiving)
-- [User Management](#user-management)
-- [Special Operators](#special-operators)
-- [System Control](#system-control)
-- [Shell Scripting Basics](#shell-scripting-basics)
-
-## Categories
-
-- **File System Navigation**: Commands for navigating the file system, such as `pwd`, `ls`, and `cd`.
-- **File Operations**: Commands for creating, copying, moving, and deleting files and directories, such as `touch`, `mkdir`, `cp`, `mv`, and `rm`.
-- **File Content**: Commands for viewing and searching file content, such as `cat`, `less`, `head`, `tail`, `grep`, `wc`, and `diff`.
-- **File Permissions**: Commands for managing file permissions and ownership, such as `chmod` and `chown`.
-- **Process Management**: Commands for managing processes, such as `ps`, `top`, `kill`, `bg`, `fg`, and `nohup`.
-- **System Information**: Commands for retrieving system information, such as `uname`, `hostname`, `df`, `du`, `free`, and `uptime`.
-- **Package Management**: Commands for managing packages on Debian/Ubuntu, Red Hat/Fedora, and Arch Linux systems.
-- **Network Commands**: Commands for network configuration and troubleshooting, such as `ping`, `ifconfig`, `netstat`, `wget`, `curl`, `ssh`, and `scp`.
-- **Text Processing**: Commands for processing text files, such as `echo`, `cut`, `sort`, `uniq`, `tr`, `sed`, and `awk`.
-- **Compression and Archiving**: Commands for compressing and archiving files, such as `tar`, `gzip`, `gunzip`, `zip`, and `unzip`.
-- **User Management**: Commands for managing user accounts, such as `useradd`, `usermod`, `userdel`, `passwd`, `sudo`, and `su`.
-- **Special Operators**: Operators for redirecting output, running commands in the background, and combining commands.
-- **System Control**: Commands for controlling the system, such as `shutdown`, `reboot`, `systemctl`, `journalctl`, `crontab`, `at`, `mount`, and `umount`.
-- **Shell Scripting Basics**: Basic syntax and commands for writing shell scripts, such as `#!/bin/bash`, `if`, `for`, `while`, `$variable`, `$()`, and `$(( ))`.
+- **[File System Navigation](#file-system-navigation)**: Commands for navigating the file system, such as `pwd`, `ls`, and `cd`.
+- **[File Operations](#file-operations)**: Commands for creating, copying, moving, and deleting files and directories, such as `touch`, `mkdir`, `cp`, `mv`, and `rm`.
+- **[File Content](#file-content)**: Commands for viewing and searching file content, such as `cat`, `less`, `head`, `tail`, `grep`, `wc`, and `diff`.
+- **[File Permissions](#file-permissions)**: Commands for managing file permissions and ownership, such as `chmod` and `chown`.
+- **[Process Management](#process-management)**: Commands for managing processes, such as `ps`, `top`, `kill`, `bg`, `fg`, and `nohup`.
+- **[System Information](#system-information)**: Commands for retrieving system information, such as `uname`, `hostname`, `df`, `du`, `free`, and `uptime`.
+- **[Package Management](#package-management)**: Commands for managing packages on Debian/Ubuntu, Red Hat/Fedora, and Arch Linux systems.
+- **[Network Commands](#network-commands)**: Commands for network configuration and troubleshooting, such as `ping`, `ifconfig`, `netstat`, `wget`, `curl`, `ssh`, and `scp`.
+- **[Text Processing](#text-processing)**: Commands for processing text files, such as `echo`, `cut`, `sort`, `uniq`, `tr`, `sed`, and `awk`.
+- **[Compression and Archiving](#compression-and-archiving)**: Commands for compressing and archiving files, such as `tar`, `gzip`, `gunzip`, `zip`, and `unzip`.
+- **[User Management](#user-management)**: Commands for managing user accounts, such as `useradd`, `usermod`, `userdel`, `passwd`, `sudo`, and `su`.
+- **[Special Operators](#special-operators)**: Operators for redirecting output, running commands in the background, and combining commands.
+- **[System Control](#system-control)**: Commands for controlling the system, such as `shutdown`, `reboot`, `systemctl`, `journalctl`, `crontab`, `at`, `mount`, and `umount`.
+- **[Shell Scripting Basics](#shell-scripting-basics)**: Basic syntax and commands for writing shell scripts, such as `#!/bin/bash`, `if`, `for`, `while`, `$variable`, `$()`, and `$(( ))`.
 
 ## File System Navigation
 
